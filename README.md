@@ -2,7 +2,7 @@
 
 <h1>🌸 Hi, I'm Sozan Alkouz 🌸</h1>
 
-<img src="./Comunicación.jpg" alt="Sozan Alkouz" width="35%"/><br>
+<img src="./Comunicación.jpg" alt="Sozan Alkouz" width="450"/>
 
 <details>
 <summary><strong>💖 Currently Learning</strong></summary>
