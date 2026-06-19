@@ -1,11 +1,8 @@
-
 <div align="center" width="50">
 
 <h1>🌸 Hi, I'm Sozan Alkouz 🌸</h1>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello" width="60%"/><br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+<img src="./girl.png" alt="Sozan Alkouz" width="65%"/><br>
 
 <details>
 <summary><strong>💖 Currently Learning</strong></summary>
@@ -61,41 +58,6 @@
 <img src="https://img.shields.io/badge/Database-ffb6c1?style=for-the-badge">
 <img src="https://img.shields.io/badge/Machine%20Learning-ff69b4?style=for-the-badge">
 </p>
-
-<hr>
-
-<h2>🌷 Developer Profile</h2>
-
-<pre>
-class SozanAlkouz {
-
-    String university = "University of Jordan";
-    String major = "Artificial Intelligence";
-
-    String[] languages = {
-        "Python",
-        "Java",
-        "C++",
-        "Prolog",
-        "HTML",
-        "CSS"
-    };
-
-    String[] skills = {
-        "Machine Learning",
-        "Database Design",
-        "Web Development",
-        "Automation with n8n"
-    };
-
-    String[] currentlyLearning = {
-        "Artificial Intelligence",
-        "Machine Learning",
-        "AI Agents",
-        "n8n Automation"
-    };
-}
-</pre>
 
 <hr>
 
